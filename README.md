@@ -27,4 +27,4 @@ Canva: For professional executive reporting and dashboard design.
 Multiple Low Risks: Information Disclosure (Server versioning) and insecure cookie attributes.
 
 ## How to View the Report
-The full, professional 9-page PDF report can be found in the [Security Assessment Findings report for Altoro Mutual(demo.testfire.net).pdf](https://github.com/user-attachments/files/26570818/Security.Assessment.Findings.report.for.Altoro.Mutual.demo.testfire.net.pdf)
+The full, professional 14-page PDF report can be found in the [Security Assessment Findings report for Altoro Mutual(demo.testfire.net).pdf](https://github.com/user-attachments/files/26570818/Security.Assessment.Findings.report.for.Altoro.Mutual.demo.testfire.net.pdf)
